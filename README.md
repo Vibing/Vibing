@@ -1,5 +1,5 @@
 
-### 记录学习、工作中所闻所见所想🚀
+### Vibing🚀
 ![我的 github stats](https://github-readme-stats.vercel.app/api?username=Vibing&hide=contribs,prs)
 
 ## JavaScript
